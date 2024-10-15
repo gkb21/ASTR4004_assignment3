@@ -7,7 +7,7 @@ This repository contains my answers for assignment 3 including Jupyter notebooks
 ### Jupyter Notebooks
 
 - **1. assignment_3**:  
-  This notebook contains answers to questions 2 and 3 of the assignment
+  This notebook contains answers to questions 1,2 and 3 of the assignment
 
 ### PDFs
 - **1. astro_comp_assignment03_2024**:
